@@ -15,15 +15,15 @@
 /// Example of mapping of the 10 Seconds Ninja game:
 /// https://store.steampowered.com/app/271670/10_Second_Ninja/
 /// </summary>
-public enum IntMapping_10SecondsNinjaEnum
+public enum IntMapping10SecondsNinjaEnum
 {
-    key_sword = WowIntegerKeyboard.key_x,
-    key_shuriken = WowIntegerKeyboard.key_z,
-    key_continue = WowIntegerKeyboard.key_c,
-    key_restart = WowIntegerKeyboard.key_r,
-    key_jump = WowIntegerKeyboard.arrow_up,
-    key_left = WowIntegerKeyboard.arrow_left,
-    key_right = WowIntegerKeyboard.arrow_right,
-    key_enter = WowIntegerKeyboard.enter,
-    key_escape = WowIntegerKeyboard.escape
+    KeySword = WowIntegerKeyboard.KeyX,
+    KeyShuriken = WowIntegerKeyboard.KeyZ,
+    KeyContinue = WowIntegerKeyboard.KeyC,
+    KeyRestart = WowIntegerKeyboard.KeyR,
+    KeyJump = WowIntegerKeyboard.ArrowUp,
+    KeyLeft = WowIntegerKeyboard.ArrowLeft,
+    KeyRight = WowIntegerKeyboard.ArrowRight,
+    KeyEnter = WowIntegerKeyboard.Enter,
+    KeyEscape = WowIntegerKeyboard.Escape
 }
