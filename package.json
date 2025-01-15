@@ -2,7 +2,7 @@
 {                                                                                
   "name": "be.elab.wowint",                              
   "displayName": "Wow Integer",                        
-  "version": "0.0.1",                         
+  "version": "2025.1.16",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
   "description": "This package is a enum and utility of the ScratchToWarcraft convention to make keyboard and xbox game using IID package.",                         
